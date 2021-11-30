@@ -1,5 +1,5 @@
 URL = 'https://api.giphy.com/v1/gifs/random'		// API URL
-API = '?api_key='	// API Key
+API = '?api_key=w6MeEQcX9y2Og8QCbhx4zvTg1K3qcJ6A'	// API Key
 TAG = '&tag=cat&rating=g'							// API Parameters
 
 var request = new XMLHttpRequest();					// Create Request
